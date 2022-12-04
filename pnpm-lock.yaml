@@ -56,7 +56,6 @@ importers:
       '@typescript-eslint/parser': ^5.33.0
       autoprefixer: ^10.4.7
       eslint: ^8.26.0
-      eslint-config-custom: workspace:*
       eslint-config-next: 13.0.2
       next: 13.0.2
       postcss: ^8.4.14
@@ -92,7 +91,6 @@ importers:
       '@typescript-eslint/parser': 5.45.0_s5ps7njkmjlaqajutnox5ntcla
       autoprefixer: 10.4.13_postcss@8.4.14
       eslint: 8.29.0
-      eslint-config-custom: link:../../packages/eslint-config-custom
       eslint-config-next: 13.0.2_s5ps7njkmjlaqajutnox5ntcla
       postcss: 8.4.14
       prettier: 2.8.0
