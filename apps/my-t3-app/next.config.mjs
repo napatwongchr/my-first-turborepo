@@ -13,5 +13,8 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  experimental: {
+    transpilePackages: ["ui"],
+  },
 };
 export default config;
